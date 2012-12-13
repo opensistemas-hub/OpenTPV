@@ -22,9 +22,11 @@ https://github.com/opensistemas-hub/OpenTPV/archive/master.zip
 Documentation
 -------------
 
-See http://wiki.openbravo.com for more documentation.
+For more documentation see
 
-The specific documentation of Opentpv is not uploaded yet.
+http://www.opensistemas.es/es/productosyservicios/opentpv.html
+
+http://wiki.openbravo.com
 
 Forums
 ------
@@ -45,5 +47,6 @@ Please use svn diff to prepare patches.
 
 Contact
 -------
+
 email: info@opensistemas.com
 
